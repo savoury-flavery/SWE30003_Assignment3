@@ -1,0 +1,16 @@
+[
+  { "sku": 1, "name": "Dell XPS 13", "category": "laptops", "price": 1499, "new": "no", "stocklevel": 12, "imageURL": "DellXPS13.jpg" },
+  { "sku": 2, "name": "MacBook Pro", "category": "laptops", "price": 2399, "new": "no", "stocklevel": 7, "imageURL": "MacBookPro.jpg" },
+  { "sku": 3, "name": "iPhone 15", "category": "phones", "price": 1399, "new": "no", "stocklevel": 15, "imageURL": "iPhone15.jpg" },
+  { "sku": 4, "name": "Samsung Flip 6", "category": "phones", "price": 1799, "new": "no", "stocklevel": 8, "imageURL": "SamsungFlip6.jpg" },
+  { "sku": 5, "name": "Dyson V8 Vacuum", "category": "appliance", "price": 799, "new": "no", "stocklevel": 10, "imageURL": "DysonV8Vacuum.jpg" },
+  { "sku": 6, "name": "Dyson Air Purifier", "category": "appliance", "price": 249, "new": "no", "stocklevel": 20, "imageURL": "DysonAirPurifier.jpg" },
+  { "sku": 7, "name": "Asus Zenbook 14", "category": "laptops", "price": 1599, "new": "no", "stocklevel": 6, "imageURL": "AsusZenbook14.jpg" },
+  { "sku": 8, "name": "Google Pixel 8", "category": "phones", "price": 1099, "new": "no", "stocklevel": 11, "imageURL": "GooglePixel8.jpg" },
+  { "sku": 9, "name": "LG Smart Frskuge", "category": "appliance", "price": 2199, "new": "no", "stocklevel": 4, "imageURL": "LGSmartFrskuge.jpg" },
+  { "sku": 10, "name": "Lenovo ThinkPad", "category": "laptops", "price": 1499, "new": "no", "stocklevel": 9, "imageURL": "LenovoThinkPad.jpg" },
+  { "sku": 11, "name": "iPhone 16", "category": "phones", "price": 1899, "new": "yes", "stocklevel": 13, "imageURL": "iPhone16.jpg" },
+  { "sku": 12, "name": "Acer Aspire 5", "category": "laptops", "price": 999, "new": "yes", "stocklevel": 14, "imageURL": "AcerAspire5.jpg" },
+  { "sku": 13, "name": "Fujifilm Instax", "category": "camera", "price": 199, "new": "no", "stocklevel": 17, "imageURL": "FujifilmInstax.jpg" },
+  { "sku": 14, "name": "Nikon ZF", "category": "camera", "price": 2999, "new": "yes", "stocklevel": 5, "imageURL": "NikonZF.jpg" }
+]

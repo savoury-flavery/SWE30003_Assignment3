@@ -5,14 +5,20 @@
 
 ---
 
-## Setup Instructions
-
-Navigate to the project directory:
+## Setup Instructions for frontend
 
 ```bash
-cd awe-electronics
+cd frontend
 npm install 
 npm run dev
 ```
 
 If "Error: EPERM:", try deleting .vite inside node_modules
+
+## Setup Instructions for backend
+
+```bash
+cd backend
+npm install
+
+```

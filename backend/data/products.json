@@ -1,0 +1,18 @@
+[
+  {
+    "sku": "mouse001",
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "imageURL": "mouse.jpg",
+    "category": "Accessories",
+    "new": "yes"
+  },
+  {
+    "sku": "keyboard001",
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "imageURL": "keyboard.jpg",
+    "category": "Accessories",
+    "new": "no"
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"orderId": 101, "email": "e@mail.com", "date": "2025-05-27", "items": [{ "sku": 12, "name": "Acer Aspire 5", "qty": 1 }], "total": 999, "status": "In Transit" },
+  {"orderId": 422, "email": "e@mail.com","date": "2025-02-21", "items": [{ "sku": 14, "name": "Nikon ZF", "qty": 2 }], "total": 5998, "status": "Delivered" },
+  {"orderId": 234, "email": "user@email.com","date": "2025-04-03", "items": [{ "sku": 12, "name": "Fujifilm Instax", "qty": 1 }], "total": 199, "status": "Delivered" }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "sku": 1,
+    "name": "Dell XPS 13",
+    "category": "laptops",
+    "price": 1499,
+    "new": "no",
+    "stocklevel": 12,
+    "imageURL": "DellXPS13.jpg",
+    "description": "Compact and powerful ultrabook with a stunning InfinityEdge display and long battery life."
+  },
+  {
+    "sku": 2,
+    "name": "MacBook Pro",
+    "category": "laptops",
+    "price": 2399,
+    "new": "no",
+    "stocklevel": 7,
+    "imageURL": "MacBookPro.jpg",
+    "description": "High-performance laptop with Apple Silicon chip, ideal for creative professionals and developers."
+  },
+  {
+    "sku": 3,
+    "name": "iPhone 15",
+    "category": "phones",
+    "price": 1399,
+    "new": "no",
+    "stocklevel": 15,
+    "imageURL": "iPhone15.jpg",
+    "description": "Powerful smartphone with advanced camera features and sleek iOS integration."
+  },
+  {
+    "sku": 4,
+    "name": "Samsung Flip 6",
+    "category": "phones",
+    "price": 1799,
+    "new": "no",
+    "stocklevel": 8,
+    "imageURL": "SamsungFlip6.jpg",
+    "description": "Foldable smartphone with dynamic AMOLED display and multitasking capabilities."
+  },
+  {
+    "sku": 5,
+    "name": "Dyson V8 Vacuum",
+    "category": "appliances",
+    "price": 799,
+    "new": "no",
+    "stocklevel": 10,
+    "imageURL": "DysonV8Vacuum.jpg",
+    "description": "Cordless vacuum cleaner with powerful suction and lightweight design for everyday cleaning."
+  },
+  {
+    "sku": 6,
+    "name": "Dyson Air Purifier",
+    "category": "appliances",
+    "price": 249,
+    "new": "no",
+    "stocklevel": 20,
+    "imageURL": "DysonAirPurifier.jpg",
+    "description": "Advanced HEPA air purifier that removes allergens, pollutants, and odors efficiently."
+  },
+  {
+    "sku": 7,
+    "name": "Asus Zenbook 14",
+    "category": "laptops",
+    "price": 1599,
+    "new": "no",
+    "stocklevel": 6,
+    "imageURL": "AsusZenbook14.jpg",
+    "description": "Elegant and thin laptop with fast performance and vivid OLED display."
+  },
+  {
+    "sku": 8,
+    "name": "Google Pixel 8",
+    "category": "phones",
+    "price": 1099,
+    "new": "no",
+    "stocklevel": 11,
+    "imageURL": "GooglePixel8.jpg",
+    "description": "Android smartphone with AI-powered photography and smooth stock Android experience."
+  },
+  {
+    "sku": 9,
+    "name": "LG Smart Fridge",
+    "category": "appliances",
+    "price": 2199,
+    "new": "no",
+    "stocklevel": 4,
+    "imageURL": "LGSmartFridge.jpg",
+    "description": "Smart refrigerator with Wi-Fi connectivity, temperature control, and energy-efficient cooling."
+  },
+  {
+    "sku": 10,
+    "name": "Lenovo ThinkPad",
+    "category": "laptops",
+    "price": 1499,
+    "new": "no",
+    "stocklevel": 9,
+    "imageURL": "LenovoThinkpad.jpg",
+    "description": "Business-class laptop known for reliability, performance, and iconic keyboard design."
+  },
+  {
+    "sku": 11,
+    "name": "iPhone 16",
+    "category": "phones",
+    "price": 1899,
+    "new": "yes",
+    "stocklevel": 13,
+    "imageURL": "iPhone16.jpg",
+    "description": "Latest iPhone model with next-gen A-series chip and advanced camera capabilities."
+  },
+  {
+    "sku": 12,
+    "name": "Acer Aspire 5",
+    "category": "laptops",
+    "price": 999,
+    "new": "yes",
+    "stocklevel": 14,
+    "imageURL": "AcerAspire5.jpg",
+    "description": "Affordable everyday laptop with solid performance and ample storage."
+  },
+  {
+    "sku": 13,
+    "name": "Fujifilm Instax",
+    "category": "cameras",
+    "price": 199,
+    "new": "no",
+    "stocklevel": 17,
+    "imageURL": "FujifilmInstax.jpg",
+    "description": "Instant camera that prints photos on the spot, perfect for parties and events."
+  },
+  {
+    "sku": 14,
+    "name": "Nikon ZF",
+    "category": "cameras",
+    "price": 2999,
+    "new": "yes",
+    "stocklevel": 0,
+    "imageURL": "NikonZF.jpg",
+    "description": "Professional mirrorless camera with full-frame sensor and retro-inspired design."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "email": "admin@awe.com",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "email": "user@email.com",
+    "password": "user123",
+    "role": "customer"
+  },
+  {
+    "email": "e@mail.com",
+    "password": "pass",
+    "role": "customer"
+  }
+]

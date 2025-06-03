@@ -1,0 +1,48 @@
+{
+  "dailyStats": [
+    {
+      "date": "2025-05-25",
+      "totalSales": 320.5,
+      "categorySales": {
+        "laptops": 149.99,
+        "phones": 100.51,
+        "appliance": 70.00
+      }
+    },
+    {
+      "date": "2025-05-26",
+      "totalSales": 240.0,
+      "categorySales": {
+        "phones": 120.00,
+        "camera": 120.00
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "totalSales": 415.75,
+      "categorySales": {
+        "laptops": 199.99,
+        "phones": 215.76
+      }
+    },
+    {
+      "date": "2025-05-28",
+      "totalSales": 198.99,
+      "categorySales": {
+        "appliance": 198.99
+      }
+    }
+  ],
+  "weeklyStats": {
+    "totalSales": 1175.24,
+    "averageSales": 293.81
+  },
+  "monthlyStats": {
+    "totalSales": 32875.24,
+    "averageSales": 287.52
+  },
+  "yearlyStats": {
+    "totalSales": 145235.76,
+    "averageSales": 1269.64
+  }
+}
